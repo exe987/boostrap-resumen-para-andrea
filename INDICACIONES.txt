@@ -1,0 +1,18 @@
+TAMAÑOS DE PANTALLA
+XS <575
+SM 576 767
+MD 768 991
+LG 992 1199
+XL 1200>
+el XS tambien se puede escribir col y se recomienda qu siempre sea distribuido igual que el SM
+
+DISTRIBUCION DE COLORES
+primary
+secondary
+dark
+light
+danger
+warning
+success
+info
+white
